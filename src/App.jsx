@@ -195,7 +195,7 @@ const HomePage = ({ setCurrentPage }) => {
           </div>
           <div className="lg:w-1/2 w-full">
             <img
-              src="https://picsum.photos/800/600 "
+              src="https://i.imgur.com/JKh6VU9.png"
               alt="Desarrollador trabajando en IA"
               className="rounded-lg w-full object-cover"
             />
