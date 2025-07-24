@@ -642,7 +642,7 @@ const AgradecimientoPage = () => {
       <div className="container mx-auto px-4 max-w-6xl text-center">
         <h2 className="text-4xl font-bold mb-4 text-green-600">¡Gracias por tu compra!</h2>
         <p className="text-xl text-gray-700 mb-6">
-          Tu licencia ha sido procesada con éxito. Pronto recibirás un correo con los detalles de activación.
+          Tu licencia ha sido procesada con éxito. Ahora puedes disfrutar de todas las funcionalidades de nuestra aplicación.
         </p>
         <p className="text-lg text-gray-600">
           Si tienes alguna pregunta, no dudes en contactarnos.
